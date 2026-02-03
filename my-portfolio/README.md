@@ -87,13 +87,6 @@ my-portfolio/
 
 ---
 
-## 📸 Screenshots
-
-![Portfolio Home](https://github.com/user-attachments/assets/f60ef4f9-6a0e-4931-a21a-ef0798d5922a)
-![Portfolio Projects](https://github.com/user-attachments/assets/4a4b2090-0d54-43d8-977f-17f891036b24)
-
----
-
 ## 🌐 Live Demo
 
 🔗 **[Visit My Portfolio](https://rohitrajak.dev/)**
