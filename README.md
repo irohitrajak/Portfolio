@@ -26,7 +26,7 @@ Smooth animations & UI interactions
 
 Installation & Setup
 # Clone the repository
-git clone https://github.com/VikramAditya04/Portfolio/tree/main/my-portfolio
+git clone https://github.com/irohitrajak/Portfolio/tree/main/my-portfolio
 
 # Navigate to project folder
 cd my-portfolio
@@ -46,12 +46,12 @@ Screenshots:
 
 
 Live Demo:
-https://vikramadityadev.vercel.app/
+https://rohitrajak.dev/
 
 Contact:
 
 If you’d like to connect or share feedback — feel free 😊
-LinkedIn: https://www.linkedin.com/in/vikramaditya04/
+LinkedIn: https://www.linkedin.com/in/irohitrajak/
 
 Support:
 
