@@ -1,56 +1,124 @@
-Personal Portfolio Website
+# 🚀 Rohit Rajak - Portfolio Website
 
-This is my personal portfolio website where I showcase my projects, skills, and experience as an aspiring Full-Stack Developer. The portfolio is built using React.js, Vite, and Tailwind CSS for a fast and modern frontend experience.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen)](https://rohitrajak.dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-irohitrajak-blue)](https://github.com/irohitrajak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5)](https://www.linkedin.com/in/irohitrajak/)
 
-Tech Stack:
+> A modern, responsive portfolio website showcasing my projects, skills, and experience as a Web Developer.
 
-⚛ React.js
+---
 
-⚡ Vite
+## 👨‍💻 About
 
-🎨 Tailwind CSS
+Hi! I'm **Rohit Rajak**, a Web Developer based in **Jabalpur**. I specialize in building user-friendly, scalable web applications using the **MERN stack**. Currently pursuing **B.Tech in Computer Science Engineering** with a focus on **IOT, Cyber Security, and Blockchain Technology** at Shri Ram Institute of Science and Technology, Jabalpur.
 
-🌐 JavaScript / JSX
+---
 
-Features:
+## ✨ Features
 
-Responsive and modern UI
+- 🎨 **Modern UI/UX** with smooth animations
+- 📱 **Fully Responsive** design
+- 🌙 **Dark Theme** with stunning visual effects
+- 💼 **Projects Showcase** with live demos
+- 🎓 **Education Timeline** 
+- 🛠️ **Skills & Tech Stack** display
+- 📧 **Contact Section** with social links
+- ⚡ **Fast Performance** using Vite
 
-Projects showcase section
+---
 
-About Me section
+## 🛠️ Tech Stack
 
-Contact / Social links
+| Technology | Description |
+|------------|-------------|
+| ⚛️ **React.js** | Frontend framework |
+| ⚡ **Vite** | Build tool & dev server |
+| 🎨 **Tailwind CSS** | Utility-first CSS framework |
+| 🌊 **Framer Motion** | Animation library |
+| 🔥 **JavaScript/JSX** | Programming language |
 
-Smooth animations & UI interactions
+---
 
-Installation & Setup
+## 🚀 Installation & Setup
+
+### Prerequisites
+- Node.js (v16 or higher)
+- npm or yarn
+
+### Steps
+
+```bash
 # Clone the repository
-git clone https://github.com/irohitrajak/Portfolio/tree/main/my-portfolio
+git clone https://github.com/irohitrajak/Portfolio.git
 
 # Navigate to project folder
-cd my-portfolio
+cd Portfolio/my-portfolio
 
 # Install dependencies
 npm install
 
-# Run the development server
+# Run development server
 npm run dev
 
-Screenshots:
-<img width="1895" height="912" alt="image" src="https://github.com/user-attachments/assets/f60ef4f9-6a0e-4931-a21a-ef0798d5922a" />
-<img width="1901" height="908" alt="image" src="https://github.com/user-attachments/assets/4a4b2090-0d54-43d8-977f-17f891036b24" />
+# Build for production
+npm run build
 
+# Preview production build
+npm run preview
+```
 
+The app will be available at `http://localhost:5173/`
 
-Live Demo:
-https://rohitrajak.dev/
+---
 
-Contact:
+## 📂 Project Structure
 
-If you’d like to connect or share feedback — feel free 😊
-LinkedIn: https://www.linkedin.com/in/irohitrajak/
+```
+my-portfolio/
+├── src/
+│   ├── Components/      # React components
+│   ├── ui/             # UI components
+│   ├── assets/         # Images, icons
+│   ├── pages/          # Page components
+│   └── App.jsx         # Main app component
+├── public/             # Static files
+└── package.json        # Dependencies
+```
 
-Support:
+---
 
-If you like this project, consider giving it a ⭐ on GitHub!
+## 📸 Screenshots
+
+![Portfolio Home](https://github.com/user-attachments/assets/f60ef4f9-6a0e-4931-a21a-ef0798d5922a)
+![Portfolio Projects](https://github.com/user-attachments/assets/4a4b2090-0d54-43d8-977f-17f891036b24)
+
+---
+
+## 🌐 Live Demo
+
+🔗 **[Visit My Portfolio](https://rohitrajak.dev/)**
+
+---
+
+## 📫 Contact
+
+- 📧 Email: [rohitpictures2005@gmail.com](mailto:rohitpictures2005@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/irohitrajak](https://www.linkedin.com/in/irohitrajak/)
+- 🐙 GitHub: [github.com/irohitrajak](https://github.com/irohitrajak)
+- 📱 WhatsApp: [+91 8358847851](https://wa.me/918358847851)
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+## ⭐ Support
+
+If you like this project, please give it a ⭐ on GitHub!
+
+---
+
+**Made with ❤️ by Rohit Rajak**
