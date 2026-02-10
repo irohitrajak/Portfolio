@@ -89,7 +89,7 @@ my-portfolio/
 
 ## 🌐 Live Demo
 
-🔗 **[Visit My Portfolio](https://rohitrajak.dev/)**
+🔗 **[Visit My Portfolio](https://rohitrajak.me/)**
 
 ---
 
